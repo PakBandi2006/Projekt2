@@ -1,0 +1,23 @@
+body {
+
+    background-image: url("hold_hatter.jpg");
+}
+
+
+p {
+
+    color:  black;
+}
+
+img {
+
+float: right;
+
+}
+
+#cica {
+
+    width: 300px;
+    height: 300px;
+    float: left;
+}
