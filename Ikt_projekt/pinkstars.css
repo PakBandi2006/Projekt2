@@ -1,14 +1,55 @@
 body {
-    background-color: antiquewhite;
-    
+    background-color:#F2D2BD;
+
+
 }
 
  div {
-    text-align: center;
-    
+    text-align: left;
+
 }
 
+h1{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
  div a {
     font-size:larger ;
     padding: 14px 16px;
+   text-decoration:underline;
+   
  }
+ h2{
+    text-align: center;
+ }
+ h3{
+    text-align: justify;
+    size: 10px;
+ }
+ 
+ li{
+    list-style-type: style circle;;
+    text-align: justify;
+    list-style-position: inside;
+    background:rgb(247, 227, 230);
+  color: rgb(13, 7, 11);
+  padding: 5px;
+  margin-left: 35px;
+ }
+ img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    border-radius: 50%;
+ }
+ h4{
+    text-align: center;
+ }
+ p{
+    text-align: center;
+    
+ }
+  a{
+    text-align:  center;
+  }
