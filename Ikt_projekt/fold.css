@@ -1,0 +1,51 @@
+body {
+
+    background-image: url("fold1.jpg");
+}
+
+img {
+
+     float: right;
+    height: 450px;
+    width: 450px;
+ }
+
+p {
+
+     color:  black;
+     font-size: 108%;
+    }
+
+ div {
+    text-align: center;
+        
+ }
+
+div a {
+    font-size:larger ;
+     padding: 14px 16px;
+ }
+
+ h1{
+    text-align: center;
+    font-size: 48px;
+    font-family: Verdana;
+    font-style: italic;
+ }
+
+ ul{
+    text-align: left;
+    font-family: Verdana;
+    font-size: 120%;
+    color: black;
+    font-weight: 540;
+ }
+
+ #fold{
+    float: left;
+    height: 320px;
+    width: 320px;
+ }
+
+
+
