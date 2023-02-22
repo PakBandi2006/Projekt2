@@ -1,0 +1,16 @@
+#eger {
+
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+
+div {
+    text-align: center;
+    
+}
+
+div a {
+    font-size:larger ;
+    padding: 14px 16px;
+ }

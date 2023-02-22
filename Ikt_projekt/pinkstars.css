@@ -24,11 +24,11 @@ h1{
  }
  h3{
     text-align: justify;
-    size: 10px;
+    font-size: 10%;
  }
  
  li{
-    list-style-type: style circle;;
+    
     text-align: justify;
     list-style-position: inside;
     background:rgb(247, 227, 230);
